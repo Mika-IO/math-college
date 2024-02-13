@@ -6,43 +6,30 @@ Matérias, unidades, exercícios e anotações faculdade matemática.
 
 ### Fisica experimental  I
 
-- Unidade I
-  
-[Google](https://www.google.com)
+Unidade I [Movimento Unidimensional](materias/fisica_experimental_1/unidade1.pdf)
 
-- Unidade II
+Unidade II [Movimento Bidimensional](materias/fisica_experimental_1/unidade2.pdf)
 
-[Google](https://www.google.com)
+Unidade III [Leis de Newton](materias/fisica_experimental_1/unidade3.pdf)
 
-- Unidade III
+Unidade IV [Trabalho e Energia Cinética](materias/fisica_experimental_1/unidade4.pdf)
 
-[Google](https://www.google.com)
+Unidade V [Energia Potencial e Conservação de Energia](materias/fisica_experimental_1/unidade5.pdf)
 
-- Unidade IV
+Unidade VI [Gravitação](materias/fisica_experimental_1/unidade6.pdf)
 
-[Google](https://www.google.com)
+Laboratório I [Primeira Lei de Newton](materias/fisica_experimental_1/lab1.pdf)
 
-- Unidade V
-
-[Google](https://www.google.com)
-
-- Unidade VI
-
-[Google](https://www.google.com)
-
-- Laboratório I
-
-[Google](https://www.google.com)
-
-- Laboratório II
-
-[Google](https://www.google.com)
+Laboratório II [Medindo Velocidade](materias/fisica_experimental_1/lab2.pdf)
 
 
+### Sequências, séries e progressões
 
-### Séries
+Unidade I [Sequências numéricas](materias/sequencias_series_progressoes/unidade1.pdf)
 
-- Unidade I
-- Unidade II
-- Unidade III
-- Unidade IV
+Unidade II [Séries numéricas](materias/sequencias_series_progressoes/unidade2.pdf)
+
+Unidade III [Séries de funções](materias/sequencias_series_progressoes/unidade3.pdf)
+
+Unidade IV [Progressões aritmética e geométrica](materias/sequencias_series_progressoes/unidade4.pdf)
+
