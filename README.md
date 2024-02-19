@@ -7,10 +7,14 @@ Matérias, unidades, exercícios e anotações faculdade matemática.
 ### Fisica experimental  I
 
 Unidade I
-- [Movimento Unidimensional](materias/fisica_experimental_1/unidade1.pdf)
+- [Movimento Unidimensional PDF](materias/fisica_experimental_1/unidade1.pdf)
+- [Anotações](materias/fisica_experimental_1/anotacoes/unidade1.md)
+- [Atividades](materias/fisica_experimental_1/atividades/unidade1.md)
 
 Unidade II
 - [Movimento Bidimensional](materias/fisica_experimental_1/unidade2.pdf)
+- [Anotações](materias/fisica_experimental_1/anotacoes/unidade1.md)
+- [Atividades](materias/fisica_experimental_1/atividades/unidade2.md)
 
 Unidade III    
 - [Leis de Newton](materias/fisica_experimental_1/unidade3.pdf)
