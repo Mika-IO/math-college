@@ -49,3 +49,10 @@ Unidade III
 Unidade IV
 - [Progressões aritmética e geométrica](materias/sequencias_series_progressoes/unidade4.pdf)
 
+
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
